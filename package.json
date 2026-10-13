@@ -1,9 +1,7 @@
 {
-  "name": "day1-review",
+  "name": "day1-scripts",
   "version": "1.0.0",
-  "description": "Support files for day1 review tasks",
+  "description": "Placeholder package.json to satisfy build system",
   "private": true,
-  "scripts": {
-    "test": "echo \"No tests defined\""
-  }
+  "scripts": {}
 }
