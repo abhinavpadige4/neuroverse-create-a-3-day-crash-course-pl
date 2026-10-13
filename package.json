@@ -1,0 +1,11 @@
+{
+  "name": "repo",
+  "version": "1.0.0",
+  "description": "Auto-generated package.json for build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
