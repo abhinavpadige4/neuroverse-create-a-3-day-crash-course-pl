@@ -1,11 +1,11 @@
 {
-  "name": "day1-review",
+  "name": "day1-solutions",
   "version": "1.0.0",
-  "description": "Utility module for array and hash‑map interview patterns",
-  "main": "day1/01_review_arrays_hash_maps_two_sum_pattern_.py",
+  "private": true,
   "scripts": {
-    "test": "echo \"No tests defined\""
+    "test": "pytest"
   },
-  "author": "",
-  "license": "MIT"
+  "devDependencies": {
+    "pytest": "^8.0.0"
+  }
 }
