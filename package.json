@@ -1,11 +1,11 @@
 {
-  "name": "repo",
+  "name": "day1-review",
   "version": "1.0.0",
-  "description": "Auto-generated package.json for build",
-  "main": "index.js",
+  "description": "Utility module for array and hash‑map interview patterns",
+  "main": "day1/01_review_arrays_hash_maps_two_sum_pattern_.py",
   "scripts": {
-    "test": "echo \"No tests specified\" && exit 0"
+    "test": "echo \"No tests defined\""
   },
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
