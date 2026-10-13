@@ -1,11 +1,9 @@
 {
-  "name": "repo",
+  "name": "day1-review",
   "version": "1.0.0",
-  "description": "Auto-generated package.json to satisfy build",
-  "main": "index.js",
+  "description": "Support files for day1 review tasks",
+  "private": true,
   "scripts": {
-    "test": "echo \"No tests specified\" && exit 0"
-  },
-  "author": "",
-  "license": "ISC"
+    "test": "echo \"No tests defined\""
+  }
 }
